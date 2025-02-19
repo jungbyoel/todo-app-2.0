@@ -1,4 +1,4 @@
-# Todo App 2.1
+# Todo App 2.0
 
 Une application mobile de gestion de tâches développée avec React Native.
 
